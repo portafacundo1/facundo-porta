@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+record.txt
+.venv/
+venv/
+.idea/
+.vscode/
